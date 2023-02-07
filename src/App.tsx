@@ -29,7 +29,7 @@ function App() {
 				<div className='divider-container'>
 					<img src={DividerIcon} alt='' className='divider-icon' />
 				</div>
-				<button className='icon-dice-button' onClick={loadAdvice}>
+				<button id="load-device" className='icon-dice-button' onClick={loadAdvice}>
 					<ThreeDots height='30' width='30' radius='9' color='hsl(218, 23%, 16%)' visible={loading} />
 					{!loading && <img src={IconDice} alt='' className='icon-dice-img' />}
 				</button>
