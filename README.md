@@ -6,7 +6,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Links
 
--   [Solution](https://www.frontendmentor.io/solutions/interactive-card-details-form-9qQ6D4d3nB)
+-   [Solution](https://www.frontendmentor.io/solutions/advice-generator-app-CRpfiPoZIX)
 -   [Live Site](https://aga-frontend-mentor.netlify.app/)
 
 ## Built with
