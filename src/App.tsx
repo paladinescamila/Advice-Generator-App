@@ -27,8 +27,8 @@ function App() {
 				<div className='divider-container'>
 					<img src={DividerIcon} alt='' className='divider-icon' />
 				</div>
-				<button id='load-device' className='icon-dice-button' onClick={loadAdvice}>
-					<img src={IconDice} alt='' className='icon-dice-img' />
+				<button id='load-advice' aria-label='Load advice' className='icon-dice-button' onClick={loadAdvice}>
+					<img src={IconDice} alt='Button to get random advice' className='icon-dice-img' />
 				</button>
 			</div>
 		</div>
